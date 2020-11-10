@@ -19,9 +19,7 @@ for i in range(0,47):
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/13.PNG)
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/14.PNG)
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/15.PNG)
-![IOT](https://github.com/anindameister/IOT/blob/main/snaps/16.PNG)
-![IOT](https://github.com/anindameister/IOT/blob/main/snaps/17.PNG)
-![IOT](https://github.com/anindameister/IOT/blob/main/snaps/18.PNG)
+
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/19.PNG)
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/20.PNG)
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/21.PNG)
