@@ -46,6 +46,7 @@ https://youtu.be/h0gWfVCSGQQ
 # document formats for web of things
 
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/33.PNG)
+
 - https://www.iana.org/assignments/core-parameters/core-parameters.xhtml
 - https://tools.ietf.org/html/draft-hartke-t2trg-coral-09 CoRAL
 
