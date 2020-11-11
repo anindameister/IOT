@@ -29,7 +29,14 @@ https://youtu.be/h0gWfVCSGQQ
 
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/30.PNG)
 
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/31.PNG)
 
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/32.PNG)
+
+- safe: operation doesn't have any side effect on the server, it doesn't change anything in terms of resources 
+- idempotent: apply 2 or more times, the operation, it has the same effect as applied once
+- From a RESTful service standpoint, for an operation (or service call) to be idempotent, clients can make that same call repeatedly while producing the same result. 
+- In other words, making multiple identical requests has the same effect as making a single request. ... The PUT and DELETE methods are defined to be idempotent.
 
 
 ## References
