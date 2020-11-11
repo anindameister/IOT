@@ -37,6 +37,11 @@ https://youtu.be/h0gWfVCSGQQ
 - idempotent: apply 2 or more times, the operation, it has the same effect as applied once
 - From a RESTful service standpoint, for an operation (or service call) to be idempotent, clients can make that same call repeatedly while producing the same result. 
 - In other words, making multiple identical requests has the same effect as making a single request. ... The PUT and DELETE methods are defined to be idempotent.
+- google search RFC 7231 for http, RFC 7252 for coap
+
+# HATEOAs
+
+- REST Web Services 08 - HATEOAS  [[3]](#3).
 
 
 ## References
@@ -45,3 +50,6 @@ https://www.youtube.com/watch?v=DP-fc68HPqI
 
 <a id="2">[2]</a>
 https://www.youtube.com/watch?v=IxTBxZd6jao&list=PL3uLubnzL2Tm5PAw88N1jR9MLTJpuPEnX&index=3
+
+<a id="3">[3]</a>
+https://www.youtube.com/watch?v=NK3HNEwDXUk
