@@ -14,8 +14,27 @@ https://youtu.be/h0gWfVCSGQQ
 
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/26.PNG)
 
+# IOT 
+
+
+
+- 3. Internet of Things - IoT architecture, IoT enabling Technologies [[2]](#2).
+
+
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/27.PNG)
+
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/28.PNG)
+
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/29.PNG)
+
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/30.PNG)
+
+
 
 
 ## References
 <a id="1">[1]</a> 
 https://www.youtube.com/watch?v=DP-fc68HPqI
+
+<a id="2">[2]</a>
+https://www.youtube.com/watch?v=IxTBxZd6jao&list=PL3uLubnzL2Tm5PAw88N1jR9MLTJpuPEnX&index=3
