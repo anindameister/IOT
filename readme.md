@@ -21,7 +21,7 @@ https://youtu.be/h0gWfVCSGQQ
 - 3. Internet of Things - IoT architecture, IoT enabling Technologies [[2]](#2).
 
 
-![IOT](https://github.com/anindameister/IOT/blob/main/snaps/27.PNG)
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/27.png)
 
 ![IOT](https://github.com/anindameister/IOT/blob/main/snaps/28.PNG)
 
@@ -42,6 +42,11 @@ https://youtu.be/h0gWfVCSGQQ
 # HATEOAs
 
 - REST Web Services 08 - HATEOAS  [[3]](#3).
+
+# document formats for web of things
+
+![IOT](https://github.com/anindameister/IOT/blob/main/snaps/33.PNG)
+- https://www.iana.org/assignments/core-parameters/core-parameters.xhtml
 
 
 ## References
