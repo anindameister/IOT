@@ -45,7 +45,7 @@ https://youtu.be/h0gWfVCSGQQ
 - In other words, making multiple identical requests has the same effect as making a single request. ... The PUT and DELETE methods are defined to be idempotent.
 - google search RFC 7231 for http, RFC 7252 for coap
 
-# HATEOAs
+# HATEOAS
 
 - REST Web Services 08 - HATEOAS  [[3]](#3).
 
@@ -58,6 +58,11 @@ https://youtu.be/h0gWfVCSGQQ
 - https://www.iana.org/assignments/core-parameters/core-parameters.xhtml
 - https://tools.ietf.org/html/draft-hartke-t2trg-coral-09 CoRAL
 
+# fat dude
+
+- loose coupling
+- TLS
+- Wss [[4]](#4).
 
 ## References
 <a id="1">[1]</a> 
@@ -68,3 +73,6 @@ https://www.youtube.com/watch?v=IxTBxZd6jao&list=PL3uLubnzL2Tm5PAw88N1jR9MLTJpuP
 
 <a id="3">[3]</a>
 https://www.youtube.com/watch?v=NK3HNEwDXUk
+
+<a id="4">[4]</a>
+https://www.youtube.com/watch?v=pNxK8fPKstc
