@@ -31,6 +31,35 @@
 - level 2:interaction with the resources with the http verbs that are designed in level 1
 - level 3: we receive the resource(which is actually a representation of resource). Now within this resource represntation, with webLinking, we're guided to the direction of what needs to be done next.
 - CoRE(Constrained RESTful Environments )The CoRE Link Format is carried as a payload and is assigned an Internet media type. 
+
+- payload: In computing and telecommunications, the payload is the part of transmitted data that is the actual intended message. 
+- Headers and metadata are sent only to enable payload delivery. 
+- In the context of a computer virus or worm, the payload is the portion of the malware which performs malicious action.
+
 - A well-known relative URI "/. well-known/core" is defined as a default entry-point for requesting the list of links about resources hosted by a server, 
 - and thus performing CoRE Resource Discovery.
 
+![certificate content](https://github.com/anindameister/IOT/blob/master/snaps/34.PNG)
+
+- the above are hypermedia links.
+- so I follow the link of the "next" and go to the next page
+- again, I do "InspectSource" and go to network tab, followed by choosing the contributor and going to the header to view source
+
+![certificate content](https://github.com/anindameister/IOT/blob/master/snaps/35.PNG)
+
+- Now we have 4 more links
+
+![certificate content](https://github.com/anindameister/IOT/blob/master/snaps/36.PNG)
+
+- the below is just the IANA defined skeleton
+
+![certificate content](https://github.com/anindameister/IOT/blob/master/snaps/37.PNG)
+
+- following the skeleton
+- we have a linkTarget, then the type of relation, some attribute
+- later we have a newTarget and so on
+- anotherTarger and so on
+- anchor: means that the relation is not between the current resource and the other target, but it's between the anchor and the other target 
+- now the complete list of relations and the complete list of authorised attributes is in the IANA page
+- google: iana link relations. we have about,last, next
+- link attributes iana.org/protocol
