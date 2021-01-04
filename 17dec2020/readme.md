@@ -14,7 +14,7 @@
 ![wiring solutions to keep things tidy is not an absolute solution](https://github.com/anindameister/IOT/blob/main/snaps/38.PNG)
 
 ## Customer wishes and modern house technology requirements
-- This presentation is sold by EnOcean and they are trying to sell their approach. This company is from Germany
+- This presentation is sold by EnOcean and they are trying to sell their approach.
 
 
 ## References
